@@ -3,6 +3,8 @@ This is a robot that uses open street maps to find the nearest lake and try to g
 
 If this doesn't look all fancy and nice yet, I am busy atm working on another video for next week or posting this current video. If you come back later today it'll look real good and fancy. I give a super fast summary of the code now.
 
+Python Script = main.py, ardino = ino file (I forgot the name rn and I do not want to look it up)
+
 First get current gps coordinates from your local powershell
 
 Then add and subtract to that to make a bounding box, send that to open street maps to find name of nearby lake
